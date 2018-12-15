@@ -1,0 +1,23 @@
+[
+	{
+		"trans_id":"tttlnahejpa2xukr::attlnahejpo1xuyd",
+		"user_id":"zttlnahejpo1ww8p-2",
+		"name":"Netflix",
+		"amount":13.99,
+		"date":"2018-09-15T13:12:03.337Z"
+	},
+	{
+		"trans_id":"uttlnahejpb3xukr::abtlnahejpo1xuye",
+		"user_id":"zttlnahejpo1ww8p-1",
+		"name":"Netflix",
+		"amount":13.99,
+		"date":"2018-09-12T13:12:03.337Z"
+	},
+	{
+		"trans_id":"uttlnahejpb7xukr::abtlnahejpo1xuye",
+		"user_id":"zttlnahejpo1ww8p-1",
+		"name":"Netflix",
+		"amount":13.99,
+		"date":"2018-12-13T13:12:03.337Z"
+	}
+]
